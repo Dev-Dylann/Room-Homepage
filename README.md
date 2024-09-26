@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://devdylan-room-homepage.netlify.app/)
 
 ## My process
 
@@ -37,10 +37,11 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - Mobile-first workflow
+- [Tailwind CSS](https://tailwindcss.com/) - CSS library
 - [React](https://reactjs.org/) - JS library
+- [Next.js](https://nextjs.org/) - React framework
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Dev-Dylann](https://www.frontendmentor.io/profile/Dev-Dylann)
+- Twitter - [@dev_dylann](https://www.twitter.com/dev_dylann)
